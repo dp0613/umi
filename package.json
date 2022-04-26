@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@umijs/bundler-webpack": "3.5.23",
-    "@umijs/core": "3.5.23",
+    "@umijs/core": "dp0613/core",
     "@umijs/deps": "3.5.23",
     "@umijs/preset-built-in": "dp0613/preset-built-in",
     "@umijs/runtime": "3.5.23",
